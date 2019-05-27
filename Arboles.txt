@@ -1,14 +1,7 @@
-Arbol, es un elemento que peude tener como hijos otros arboles
-Arbol Binario (A la izquiera est�n los valores menores de ese nodo y a la 
-derecha los mayores)
-Cuando el elemento no tiene subarboles se llaman hojas terminales 
-Un arbol tiene nivel
-Nivel 0: raiz del arbol
-Nivel 1: hijos de la raiz
-Nivel 2: Hijos de los hijos de la raiz
-...
+Arbol Binario
 
-Tarea: 	Definir una funcion insertar para que retorne todo el arbol.
-	A partir de una lista crear un arbol
+Duvan Alejandro Zambrano Molina 20161020011
 
-El miercoles trabajamos arboles n-arios
+Johan Sebastian Ortiz Cortes 20161020043
+
+Natalia Andrea Meléndez Mejía 20161020115
